@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import FirstPage from './components/FirstPage';
 import SecondPage from './components/SecondPage';
